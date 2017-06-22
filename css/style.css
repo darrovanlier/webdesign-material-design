@@ -1,0 +1,21 @@
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.landingpage {
+    background: url("../img/background3.jpg") center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+
+}
+
+.card_image_style {
+    height: 200px;
+    width: 200px;
+}
